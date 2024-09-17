@@ -4,7 +4,7 @@ I'm software and game developer from Brazil.
 
 I consider myself a generalist programmer working with different solutions and technologies over 10+ years of professional experience. My main interests are explore technical implementations of game engines, software architecture and develop interactive/graphical applications.
 
-💙 Interested in game engines and graphics.
+💙 Interested in game engines and graphics.<br>
 ✨ In free time I used to go to my indie games for old videogames.
 
 <!--
