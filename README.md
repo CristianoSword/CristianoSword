@@ -1,6 +1,6 @@
 ## Hi! I'm Cris 👋
 
-I'm software and game developer from Brazil.
+I'm Web and Game Developer from Brazil.
 
 I consider myself a generalist programmer working with different solutions and technologies over 10+ years of professional experience. My main interests are explore technical implementations of game engines, software architecture and develop interactive/graphical applications.
 
