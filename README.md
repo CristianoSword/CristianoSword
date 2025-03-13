@@ -1,6 +1,6 @@
 ## Hi! I'm Cris 👋
 
-I'm Fullstack Web and Game Developer from Brazil.
+I'm Fullstack Web and Game Developer.
 
 I consider myself a generalist programmer working with different solutions and technologies over 10+ years of professional experience. My main interests are explore technical implementations of game engines, software architecture, develop interactive/graphical applications and Web fullstack (front/back end).
 
