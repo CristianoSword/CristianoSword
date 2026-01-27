@@ -2,7 +2,7 @@
 
 I'm Fullstack Web and Game Developer.
 
-Generalist programmer with over 10 years of professional experience, working across diverse technologies and solutions. Particularly interested in technical implementations of game engines, software architecture, interactive/graphical application development, and full-stack web development (frontend and backend).
+Senior programmer with over 10 years of professional experience, working across diverse technologies and solutions. Particularly interested in technical implementations of game engines, software architecture, interactive/graphical application development, and full-stack web development (frontend and backend).
 
 💙 Interested in game engines, performance and computer graphics.<br>
 ✨ In free time I used to go to my indie games for old videogames.
