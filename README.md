@@ -1,6 +1,6 @@
 ## Hi! I'm Cris 👋
 
-I'm Fullstack Web and Game Developer.
+I'm Backend Web and Game Developer.
 
 Senior programmer with over 10 years of professional experience, working across diverse technologies and solutions. Particularly interested in technical implementations of game engines, software architecture, interactive/graphical application development, and full-stack web development (frontend and backend).
 
