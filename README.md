@@ -1,8 +1,8 @@
-## Hi! I'm Cris 👋
+## Hi! I'm Cristiano 👋
 
 I'm Backend Web and Game Developer.
 
-Senior programmer with over 11 years of professional experience, working across diverse technologies and solutions. Particularly interested in technical implementations of game engines, software architecture, interactive/graphical application development, and full-stack web development (frontend and backend).
+Senior programmer with over 11 years of professional experience, working across diverse technologies and solutions. Particularly interested in technical implementations of game engines, software architecture, interactive/graphical application development, and back-stack web development (backend).
 
 💙 Interested in game engines, performance and computer graphics.<br>
 💾 In free time I used to go to my indie games for old videogames.
